@@ -1,0 +1,6 @@
+Eroare:
+Caused by: com.badlogic.gdx.utils.GdxRuntimeException: File not found: honeycomb.png (Internal)
+
+Solutie:
+Choose Edit Configuration.. => "Working directory" => Change folder to android/assets
+-----------------------------

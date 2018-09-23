@@ -1,0 +1,47 @@
+
+bumblebee.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BUMBEE1
+  rotate: false
+  xy: 2, 192
+  size: 180, 188
+  orig: 180, 188
+  offset: 0, 0
+  index: -1
+BUMBEE2
+  rotate: false
+  xy: 2, 2
+  size: 180, 188
+  orig: 180, 188
+  offset: 0, 0
+  index: -1
+BUMBEE3
+  rotate: false
+  xy: 184, 192
+  size: 180, 188
+  orig: 180, 188
+  offset: 0, 0
+  index: -1
+BUMBEE4
+  rotate: false
+  xy: 184, 2
+  size: 180, 188
+  orig: 180, 188
+  offset: 0, 0
+  index: -1
+BUMBEE5
+  rotate: false
+  xy: 366, 192
+  size: 180, 188
+  orig: 180, 188
+  offset: 0, 0
+  index: -1
+BUMBEE6
+  rotate: false
+  xy: 366, 2
+  size: 180, 188
+  orig: 180, 188
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,2 @@
+cd D:\_Proiecte\libgdx-0.9.9
+java -cp gdx.jar;gdx-natives.jar;gdx-backend-lwjgl.jar;gdx-backend-lwjgl-natives.jar;extensions\gdx-tools\gdx-tools.jar com.badlogic.gdx.tools.particleeditor.ParticleEditor

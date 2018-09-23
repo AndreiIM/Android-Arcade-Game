@@ -1,0 +1,61 @@
+
+bee.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BEE1
+  rotate: false
+  xy: 2, 2
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+BEE2
+  rotate: false
+  xy: 88, 2
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+BEE8
+  rotate: false
+  xy: 88, 2
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+BEE3
+  rotate: false
+  xy: 174, 2
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+BEE7
+  rotate: false
+  xy: 174, 2
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+BEE4
+  rotate: false
+  xy: 260, 2
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+BEE6
+  rotate: false
+  xy: 260, 2
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+BEE5
+  rotate: false
+  xy: 346, 2
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1

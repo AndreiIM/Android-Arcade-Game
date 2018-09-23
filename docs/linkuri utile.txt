@@ -1,0 +1,10 @@
+Algorithm to generate a hexagonal grid with coordinate system
+-------------------------------------------------------------
+http://stackoverflow.com/questions/20734438/algorithm-to-generate-a-hexagonal-grid-with-coordinate-system
+
+
+exemple desenare polygon cu libgdx
+----------------------------------
+http://stackoverflow.com/questions/15733442/drawing-filled-polygon-with-libgdx
+http://stackoverflow.com/questions/26715986/libgdx-shaperenderer-circle-drawing
+http://libgdx.badlogicgames.com/nightlies/docs/api/com/badlogic/gdx/graphics/glutils/ShapeRenderer.html#polygon%28float[]%29
